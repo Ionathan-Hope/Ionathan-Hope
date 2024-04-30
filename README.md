@@ -4,6 +4,8 @@ getche and putch
 
 ```asm
 main0:
+        pushf
+        pusha
         mov   eax,0
         cpuid
         push  ecx
@@ -25,6 +27,9 @@ main3:
         int   33
         shr   edx,8
         loop  main3
+        popa
+        popf
+        retf  0
 ```
 
 IonathanHope
