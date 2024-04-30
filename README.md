@@ -3,8 +3,8 @@ babacm8E
 getche and putch
 
 ```asm
-mov eax,0
-cpuid
+    mov   eax,0
+    cpuid
 ```
 
 THIS IS ME: jonathan hope sevilla hernandez.
