@@ -2,6 +2,8 @@ babacm8E
 # WHO AM I?
 getche and putch
 
+CPUID
+
 THIS IS ME: jonathan hope sevilla hernandez.
 
 <!-- comments here
@@ -10,7 +12,7 @@ THIS IS ME: jonathan hope sevilla hernandez.
 |
 |NEW PROJECTS ARE AVAILABLE.
 |
-|...WHO'S THERE?
+|KNOCK KNOCK.
 |
 |end of comments --!>
 
