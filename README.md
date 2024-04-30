@@ -13,12 +13,14 @@ main0:
         push  ecx
         mov   ecx,4
         mov   ah,6
+        push  edx
 main1:
         mov   dl,bl
         int   33
         shr   ebx,8
         loop  main1
         mov   ecx,4
+        pop   edx
 main2:
         int   33
         shr   edx,8
