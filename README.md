@@ -8,19 +8,21 @@ main0:
         cpuid
         push  ecx
         mov   ecx,4
+        mov   ah,6
 main1:
-        disp  bl
+        mov   dl,bl
+        int   33
         shr   ebx,8
         loop  main1
         mov   ecx,4
 main2:
-        disp  dl
+        int   33
         shr   edx,8
         loop  main2
         pop   edx
         mov   ecx,4
 main3:
-        disp  dl
+        int   33
         shr   edx,8
         loop  main3
 ```
