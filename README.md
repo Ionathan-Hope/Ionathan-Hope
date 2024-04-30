@@ -1,4 +1,4 @@
-babacm8E
+tinyurl signature: babacm8E
 # WHO AM I?
 getche and putch
 
