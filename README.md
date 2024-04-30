@@ -5,7 +5,7 @@ getche and putch
 _identification_
 
 ```asm
-main0:
+main    proc  far
         pushf
         pusha
         mov   eax,0
@@ -34,6 +34,7 @@ main3:
         popa
         popf
         ret   0
+main    endp
 ```
 
 IonathanHope
