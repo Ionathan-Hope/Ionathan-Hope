@@ -1,2 +1,2 @@
 # STORAGE
-reserved for data storage in github
+reserved for data storage in my account
