@@ -29,7 +29,7 @@ main3:
         loop  main3
         popa
         popf
-        retf  0
+        ret   0
 ```
 
 IonathanHope
