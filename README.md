@@ -2,7 +2,9 @@ babacm8E
 # WHO AM I?
 getche and putch
 
+```asm
 CPUID
+```
 
 THIS IS ME: jonathan hope sevilla hernandez.
 
