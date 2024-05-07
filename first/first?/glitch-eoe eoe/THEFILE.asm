@@ -1,4 +1,3 @@
-        .386
         .model  tiny
         .code
         .startup
